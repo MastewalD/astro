@@ -1,6 +1,8 @@
 # Astrology Website
 
-One Paragraph of project description goes here
+<p>
+  The Astrology Sign Finder is a web application that provides users with personalized astrology descriptions based on their birth dates. By entering their date of birth, users can discover their zodiac sign and read detailed insights about their personality traits, strengths, weaknesses, and compatibility with other signs.
+</p>
 
 ## Getting Started
 
